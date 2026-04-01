@@ -24,39 +24,39 @@ export default function EmergencyContacts() {
   const contacts: Contact[] = [
     {
       id: 1,
-      name: 'Trần Thị Lan',
+      name: 'Hoàng Phương Thảo',
       relationship: 'Con gái',
-      phone: '0912345678',
-      email: 'lan.tran@email.com',
-      address: 'Quận 1, TP. HCM',
-      avatar: 'L'
+      phone: '09839986768',
+      email: 'hoangphuongthao2903@email.com',
+      address: 'Quận 7, TP. HCM',
+      avatar: 'T'
     },
     {
       id: 2,
-      name: 'Nguyễn Văn Minh',
-      relationship: 'Con trai',
-      phone: '0923456789',
-      email: 'minh.nguyen@email.com',
+      name: 'Nguyễn Thy Huyền Trân',
+      relationship: 'Con dâu',
+      phone: '0785015678',
+      email: 'tn06092006@gmail.com',
       address: 'Quận 3, TP. HCM',
-      avatar: 'M'
+      avatar: 'TN'
     },
     {
       id: 3,
-      name: 'Lê Thị Hương',
+      name: 'Trần Nữ Thúy Ngân',
       relationship: 'Chị gái',
-      phone: '0934567890',
-      email: 'huong.le@email.com',
-      address: 'Quận 5, TP. HCM',
-      avatar: 'H'
+      phone: '0834416703',
+      email: 'trnthuyngan.2006@gmail.com',
+      address: 'Quận 1, TP. HCM',
+      avatar: 'N'
     },
     {
       id: 4,
-      name: 'BS. Nguyễn Minh Tuấn',
+      name: 'Phạm Ánh Tuyết',
       relationship: 'Bác sĩ chính',
-      phone: '0945678901',
-      email: 'dr.tuan@hospital.vn',
+      phone: '0702 545 926',
+      email: 'tuyetdu2006@gmail.com',
       address: 'Bệnh viện Đa khoa',
-      avatar: 'T'
+      avatar: 'AT'
     }
   ];
 
