@@ -49,7 +49,8 @@ export default function Home() {
                 <Phone className="w-5 h-5 text-white" strokeWidth={2.5} />
                 <p className="text-white font-bold text-base">Liên hệ khẩn cấp</p>
               </div>
-              <p className="text-white font-semibold text-base mb-2">Trần Thị Lan (con gái)</p>
+              <p className="text-white font-semibold text-base mb-2">Yến Khanh
+                (con gái)</p>
               <p className="text-white font-bold text-xl">0912345678</p>
             </div>
             <ChevronRight className="w-6 h-6 text-white/80 flex-shrink-0 ml-3" strokeWidth={2.5} />
