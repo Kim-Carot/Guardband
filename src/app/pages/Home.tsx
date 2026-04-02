@@ -51,7 +51,7 @@ export default function Home() {
               </div>
               <p className="text-white font-semibold text-base mb-2">Yến Khanh
                 (con gái)</p>
-              <p className="text-white font-bold text-xl">0912345678</p>
+              <p className="text-white font-bold text-xl">0975466684</p>
             </div>
             <ChevronRight className="w-6 h-6 text-white/80 flex-shrink-0 ml-3" strokeWidth={2.5} />
           </button>
