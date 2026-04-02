@@ -26,10 +26,10 @@ export default function EmergencyContacts() {
       id: 1,
       name: 'Hoàng Phương Thảo',
       relationship: 'Con gái',
-      phone: '09839986768',
+      phone: '0983998676',
       email: 'hoangphuongthao2903@email.com',
       address: 'Quận 7, TP. HCM',
-      avatar: 'T'
+      avatar: 'Emi'
     },
     {
       id: 2,
